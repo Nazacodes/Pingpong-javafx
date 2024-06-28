@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'gameFont';
+    src: url('gameFont.ttf');
+}
+
+.root {
+    -fx-background-image: url("2FxK.gif");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-font-family: 'gameFont';
+}
+
+.label, .text-field, .slider {
+    -fx-font-family: 'gameFont';
+
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ff0000;
+}
+.button {
+    -fx-font-size: 16px;
+        -fx-padding: 10px 5px;
+        -fx-background-color: linear-gradient(to right, #ff6ec4, #7873f5);
+        -fx-text-fill: white;
+        -fx-font-family: 'Arial Black', sans-serif;
+
+}
+
+
+.menu-title {
+    -fx-background-image: url("gamelogo.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.text-field {
+    -fx-background-color: transparent;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+
+}
+
+.slider {
+    -fx-control-inner-background: #0000ff;
+    -fx-accent: #ff00ff;
+
+}
+
+.button:hover{
+-fx-background-color: linear-gradient(to right, #7873f5, #ff6ec4);}

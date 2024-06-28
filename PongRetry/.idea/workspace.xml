@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0eda21e0-f2ef-4b97-8650-807e3c97039a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/BallMovementHandlerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/PongGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/controllers/BallMovementHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/controllers/GameController.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/controllers/GameMenuController.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/controllers/RacketMovementHandler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/controllers/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/controllers/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/model/Ball.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/model/Player.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/model/Racket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/model/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/model/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/view/GameMenuView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/view/GameView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/view/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/com/example/pongretry/view/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com.example.pongretry/module-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_history.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_games/21.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_games/222.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_games/test.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/DAO/Gamebuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/DAO/PostgreSQLManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/PongGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/BallMovementHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/GameMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/GameSaveLoadManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/Gamesettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/RacketMovementHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/SerializationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/model/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/model/Racket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/view/GameMenuView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/pongretry/view/GameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/pongretry/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stylesheets/2FxK.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stylesheets/cool-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stylesheets/game.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stylesheets/image/gamelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stylesheets/image/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BallMovementHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StackTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cH1cyO0ZBgU6PAhi8zPnY61kMS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/student/IdeaProjects/PongRetry/src/main/resources/stylesheets/image&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalDependencies&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.pongretry" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\IdeaProjects\PongRetry\src\main\resources\stylesheets\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\IdeaProjects\PongRetry\src\main\resources\stylesheets" />
+      <recent name="C:\Users\student\IdeaProjects\PongRetry\src\main\resources\stylesheets\image" />
+      <recent name="C:\Users\student\IdeaProjects\PongRetry\src\main\java\com\example\pongretry\stylesheet" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.example.pongretry" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PongGame">
+    <configuration name="HeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeapTest" />
+      <module name="PongRetry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectCreationExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectCreationExperiment" />
+      <module name="PongRetry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PongGame" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.pongretry.PongGame" />
+      <module name="PongRetry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.pongretry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackTest" />
+      <module name="PongRetry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallMovementHandlerTest.testHandleCollisionsBottomWall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PongRetry" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BallMovementHandlerTest" />
+      <option name="METHOD_NAME" value="testHandleCollisionsBottomWall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallMovementHandlerTest.testHandleCollisionsWall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PongRetry" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BallMovementHandlerTest" />
+      <option name="METHOD_NAME" value="testHandleCollisionsWall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeapTest" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.ObjectCreationExperiment" />
+        <item itemvalue="JUnit.BallMovementHandlerTest.testHandleCollisionsBottomWall" />
+        <item itemvalue="JUnit.BallMovementHandlerTest.testHandleCollisionsWall" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eda21e0-f2ef-4b97-8650-807e3c97039a" name="Changes" comment="" />
+      <created>1707753772693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707753772693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/pongretry/controllers/GameMenuController.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/pongretry/view/GameMenuView.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BallMovementHandlerTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BallMovementHandlerTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

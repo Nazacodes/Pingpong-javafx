@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: 'gameFont';
+    src: url('gameFont.ttf');
+}
+.root {
+    -fx-background-image: url("cool-background.png");
+    -fx-background-size: cover;
+     -fx-background-repeat: no-repeat;
+       -fx-font-family: 'gameFont';
+}
+
+.home-button {
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-background-color: linear-gradient(to right, #ff6ec4, #7873f5);
+    -fx-text-fill: white;
+    -fx-font-family: 'Arial Black', sans-serif;
+}
+
+.home-button:hover {
+    -fx-background-color: linear-gradient(to right, #7873f5, #ff6ec4);
+}
